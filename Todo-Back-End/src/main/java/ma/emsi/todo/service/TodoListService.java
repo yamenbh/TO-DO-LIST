@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import ma.emsi.todo.entities.TodoList;
-import ma.emsi.todo.reporsitory.TodoListRepository;
+import ma.emsi.todo.repository.TodoListRepository;
 
 @Service
 public class TodoListService {
